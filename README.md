@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Walk Out of Darkness (1)](https://user-images.githubusercontent.com/77166183/124021373-dcb99f00-d9c1-11eb-94a2-c8f493532eb9.gif)
+
+
 ## :arrow_right: Languages and Tools:
 
 <p>
