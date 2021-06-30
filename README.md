@@ -3,39 +3,44 @@
 ![Walk Out of Darkness (1)](https://user-images.githubusercontent.com/77166183/124021373-dcb99f00-d9c1-11eb-94a2-c8f493532eb9.gif)
 
 
-## :arrow_right: Languages and Tools:
+## Skills:
 
-<p>
-  <code><img width="15%" heigth="100px" src="https://cobaltoconsulting.com/wp-content/uploads/2019/09/javascript-logo.png"></code>
-  <code><img width="15%" heigth="100px" src="https://programacion.net/files/article/article_02169_.jpg"></code>
-  <code><img width="15%"heigth="100px" src="https://disenowebakus.net/imagenes/articulos/html5.jpg"></code>
-  <code><img width="15%" heigth="100px" src="https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg"></code>
-  <code><img width="15%" heigth="100px" src="https://dineroclub.net/wp-content/uploads/2021/02/REDUX.png"></code>
-  <code><img width="15%" heigth="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png"></code>
-    <br />
-  <code><img width="15%"heigth="100px" src="https://training.techtalkthai.com/wp-content/uploads/2020/11/nodejs_logo_banner_01-600x314-1.png"></code>
-  <code><img width="15%" heigth="100px" src="https://miro.medium.com/max/766/1*uPL1uCtLBRSk6akPL2hNzg.jpeg"></code>
-  <code><img width="15%" heigth="10opx" src="https://alvaroperdiz.com/images/headers/postgresql.png"></code>
-  <code><img width="15%"  heigth="100px" src="https://i.blogs.es/91493f/sequelize/1366_2000.png"></code>
-  <code><img  width="15%"  heigth="100px" src="https://i.imgur.com/DRUiMyM.png"></code>
-  <code><img  width="15%"  heigth="100px" src="https://developers.pendo.io/wp-content/uploads/2020/11/react-native.png"></code>
-  <br />
-  <br />
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+
+[![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
+[![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![redux](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
+[![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+
+[![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+
+[![boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![postgresql](	https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+
+[![unity](	https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+
+
+## :arrow_right: My proyects
+
+
+<!-- <h3> Henry Food </h3> <a href="https://github.com/caraqueleonardo/henry-food" target="_blank">Check code</a> -->
+<p> 
+   <a><img width="70%" src=""></a>
+  <a><img width="70%" src2=""></a>
+  <a><img width="70%" src=""></a>
+  <a><img width="70%" src=""></a>
 </p>
 
-&nbsp;
 
-<!--
-**caraqueleonardo/caraqueleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :arrow_right: Contact me:
+<span >
+<a href="https://www.linkedin.com/in/leonardocaraquedesarrolladorfrontend/" ><img width="60px" height="60px" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"> &nbsp;
+<a href="mailto:caraqueleonardo@gmail.com" ><img width="60px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png">
+</span>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
